@@ -23,3 +23,4 @@ Git
 
 Misc 
 - https://developer.chrome.com/docs/
+- https://learn-anything.xyz/
