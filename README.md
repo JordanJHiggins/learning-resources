@@ -15,6 +15,7 @@ JavaScript
 
 React
 - https://mantine.dev/pages/getting-started/
+- https://fullstackopen.com/en/
 
 Git
 - https://think-like-a-git.net/
